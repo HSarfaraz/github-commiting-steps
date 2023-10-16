@@ -1,8 +1,8 @@
-## Git & Github Learnings
+## Git & Github Learnings notes
 
 ### Git:
 
-- Version constrol system is a tooks that helps to track changes in code.
+- Version constrol system is a tool that helps to track changes in code.
 - Git is version control system it is popular, free, open source, fast, scalable.
 - It helps not to override the changes of different developers.
 
