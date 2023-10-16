@@ -8,7 +8,7 @@
 
 ### Github
 
-- Github is a website that allow developer to store and amange their code using git.
+- Github is a website that allow developer to store and manage their code using git.
 - We can keep our project here, helps in showcase the work available.
 - Folder of git is called repository.
 - To create the profile on git go to github.com using email id.
